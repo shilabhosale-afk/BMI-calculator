@@ -1,0 +1,6 @@
+{
+  "name": "BMI Calculator",
+  "description": "A simple and clean Body Mass Index (BMI) calculator that calculates your BMI locally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
